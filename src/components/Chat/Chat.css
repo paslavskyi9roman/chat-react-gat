@@ -1,0 +1,27 @@
+.сhat {
+  background-color: rgb(245, 245, 245);
+  border: rgb(218, 218, 218) 2px solid;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+}
+
+.messeges {
+  background-color: #fff;
+  border-bottom: rgb(218, 218, 218) 2px solid;
+  padding: 1rem;
+  min-height: 600px;
+  max-height: 600px;
+  overflow: scroll;
+  scrollbar-width: none; /* Firefox */
+}
+
+.messeges::-webkit-scrollbar {
+  display: none; /* Chrome */
+}
+
+.chat-top {
+  font-size: 1.4rem;
+  border-bottom: rgb(218, 218, 218) 2px solid;
+}

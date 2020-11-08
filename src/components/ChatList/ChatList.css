@@ -1,0 +1,31 @@
+.сhatlist {
+  padding: 15px;
+  background-color: rgb(245, 245, 245);
+  border-bottom: rgb(218, 218, 218) 2px solid;
+}
+
+.contactContainer {
+  background: #fff;
+  margin-top: 1rem;
+  max-height: 600px;
+  overflow: scroll;
+  scrollbar-width: none; /* Firefox */
+}
+
+.contactContainer::-webkit-scrollbar {
+  display: none; /* Chrome */
+}
+
+.loggedUser {
+  margin-bottom: 1rem;
+}
+
+span {
+  color: rgb(105, 180, 209);
+  font-size: 1.5rem;
+  margin: 1rem;
+}
+
+.wrapper {
+  width: 600px;
+}

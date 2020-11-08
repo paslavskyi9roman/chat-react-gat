@@ -1,0 +1,58 @@
+{
+  "site": {
+    "version": "0.2.1",
+    "state": "beta"
+  },
+  "message": {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:23.880601",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "HTxN_A8gR42PcRlWZUJYSw",
+    "updated_at": "2020-01-05 13:42:23.880601",
+    "url": "https://api.chucknorris.io/jokes/HTxN_A8gR42PcRlWZUJYSw",
+    "value": "Everything on Chuck Norris' properties are powered by a deus ex machina"
+  },
+  "messages": [
+    {
+      "created_at": "2020-01-05 13:42:23.880601",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "HTxN_A8gR42PcRlWZUJYSw1",
+      "updated_at": "2020-01-05 13:42:23.880601",
+      "url": "https://api.chucknorris.io/jokes/HTxN_A8gR42PcRlWZUJYSw",
+      "value": "Everything on Chuck Norris' properties are powered by a deus ex machina"
+    },
+    {
+      "direction": 1,
+      "created_at": "2020-01-05 13:42:23.880601",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "HTxN_A8gR42PcRlWZUJYSw2",
+      "updated_at": "2020-01-05 13:42:23.880601",
+      "url": "https://api.chucknorris.io/jokes/HTxN_A8gR42PcRlWZUJYSw",
+      "value": "Everything on Chuck Norris' properties are powered by a deus ex machina"
+    },
+    {
+      "created_at": "2020-01-05 13:42:23.880601",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "HTxN_A8gR42PcRlWZUJYSw3",
+      "updated_at": "2020-01-05 13:42:23.880601",
+      "url": "https://api.chucknorris.io/jokes/HTxN_A8gR42PcRlWZUJYSw",
+      "value": "Everything on Chuck Norris' properties are powered by a deus ex machina"
+    }
+  ],
+  "users": {
+    "roman": {
+      "id": "1"
+    },
+    "oleg": {
+      "id": "2"
+    },
+    "taras": {
+      "id": "3"
+    }
+  },
+  "userMessages": {
+    "roman": {},
+    "oleg": {},
+    "taras": {}
+  }
+}

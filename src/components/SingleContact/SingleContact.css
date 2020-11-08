@@ -1,0 +1,26 @@
+.single-contact {
+  padding: 1rem;
+  color: rgb(94, 94, 94);
+  display: flex;
+  align-items: center;
+  border-bottom: rgb(245, 245, 245) 2px solid;
+}
+
+.single-Contact_group {
+  width: 80%;
+  align-items: center;
+  display: flex;
+}
+
+.user-icon {
+  margin: 0 10px 0 0;
+}
+
+.last-message {
+  padding: 5px 0;
+  color: rgb(141, 140, 140);
+}
+
+.contactName {
+  font-size: 1.1rem;
+}

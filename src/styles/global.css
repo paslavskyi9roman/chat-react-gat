@@ -1,0 +1,21 @@
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  background-color: rgb(199, 174, 174);
+}
+
+section {
+  background-color: rgb(255, 255, 255);
+  color: rgb(48, 46, 46);
+  margin: 0 auto;
+  display: flex;
+}
+
+@media (min-width: 1200px) {
+  section {
+    max-width: 1170px;
+  }
+}
